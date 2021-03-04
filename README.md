@@ -19,6 +19,6 @@ As the equation and R squared shows, money spent alone is a very good predictor 
 I wanted to analyze the length of the campaign and the amount spent. I converted the time interval into hours by reconstructing the date and using the datedif excel function. Because I was using ongoing data there were current campaigns and I used if statements check for this. Then I just used the current date. These time intervals were left in hours. I then used nested if statements to convert the spent amount to USD using the current exchange rate I found on google. I then used regression tools on the data, more in the analysis section. 
   
 ## Links to Sources
-[Analysis](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimor-Bristol-Analysis.xlsx)
+[Analysis](https://github.com/cmclane1/Regression_Analysis_of_Snapchat_Political_Ads/blob/main/Snapchat_Ad_Regression.xlsx)
 
-[Data](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimore-Bristol-Data.xlsx)
+[Data](https://www.snap.com/en-US/political-ads)
